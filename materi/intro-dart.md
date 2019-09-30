@@ -1,3 +1,4 @@
+![alt text](https://miro.medium.com/max/480/0*JWyRX0OvflgVHFUF "Logo Dart")
 # Pengenalan Bahasa Dart
 
 Sebagai perusahaan raksasa teknologi, **Google** mengembangkan beberapa bahasa pemrograman, termasuk di dalamnya adalah bahasa pemrograman **Dart.** Beberapa kelebihan bahasa pemrograman Dart menjadikan bahasa ini menjadi salah satu bahasa baru yang dapat dipelajari oleh para developer maupun calon developer.
