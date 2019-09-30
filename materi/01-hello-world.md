@@ -8,8 +8,7 @@ print("Hello World!");
 Penggunaannya sangat mudah, kita hanya perlu memasukan text pada parameter pertama, maka hasilnya akan langsung dicetak di console.
 
 Kita juga bisa menyisipkan variable atau nilai lain ke dalam print
-```
-python
+```python
 //Cara pertama
 String nama = "Yusril";
 print("Hello " + nama + "!");
