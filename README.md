@@ -1,3 +1,4 @@
+![alt text](https://www.thurrott.com/wp-content/uploads/sites/2/2019/05/flutter-mobile-web-desktop.jpg "Banner Flutter")
 # Introducing
 Pada kelas ini kita akan lebih banyak memfokuskan diri untuk pemahaman fundamental dasar terlebih dahulu, setelahnya baru kita akan mulai mendevelop aplikasi mobile menggunakan Flutter. 
 
